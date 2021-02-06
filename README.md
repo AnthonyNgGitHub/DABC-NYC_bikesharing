@@ -1,4 +1,4 @@
-# DABC-bikesharing
+NYC CitiBike - Bikesharing Analysis
 
 ## Overview:
 The purpose of this analysis is to gain valuable insights into the usage of NYC Citibikes by visualizing usage data on Tableau in order to assess the feasibility of applying the same business idea elsewhere.
