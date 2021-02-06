@@ -24,7 +24,7 @@ By examining the top starting and ending locations of bike rides, we gain insigh
 <img src ="images/Top_Starting_Locations.png"></img>
 <img src ="images/Top_Ending_Locations.png"></img>
 
-While subscribers contriubted to the majority of the of the trips, their trips are much shorter than trips taken by customers  (non-subscribers). On average, non-subscribers take trips lasting twice as long as subscribers. This suggests that there is an opportunity for price-discrimination where charges for non-subscribers are higher, and charges for subscribers are lower, to maximize profit from both types of users.
+While subscribers contriubted to the majority of the trips, their trips are much shorter than trips taken by customers  (non-subscribers). On average, non-subscribers take trips lasting twice as long as subscribers. This suggests that there is an opportunity for price-discrimination where charges for non-subscribers are higher, and charges for subscribers are lower, to maximize profit from both types of users.
 
 <img src ="images/Avg_Trip_Duration_by_Day.png"></img>
 
