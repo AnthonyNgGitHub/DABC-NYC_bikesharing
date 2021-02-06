@@ -9,32 +9,32 @@ The purpose of this analysis is to gain valuable insights into the usage of NYC 
 
 Below dashboard presents a summary of the CitiBike usage by Gender and User Type. In general, most users of CitiBike are male subscribers who tend to use more of the bikes as the working week progresses.
 
-<img src ="IMAGES/dashboard_1.PNG"></img>
+<img src ="images/dashboard_1.PNG"></img>
 
 Taking a closer look at the data shows that most trips on workdays are taken during commuting hours at around 7-8 am and 5-6 pm, whereas the usage is more evenly distributed throughout the day on weekends. In addition, although females riders take less trips than males, their trips' duration are longer. As the age groups get older, they tend to take shorter trips.
 
-<img src ="IMAGES/dashboard_2.PNG"></img>
+<img src ="images/dashboard_2.PNG"></img>
 
 As illustrated below, all trips were finished within an hour. In fact, most trips (80%) are checked out within 20 minutes. In addition, the most common trip duration is only 5 minutes long regardless of the gender.
 
-<img src ="IMAGES/check_out_time_by_gender.PNG"></img>
+<img src ="images/check_out_time_by_gender.PNG"></img>
 
 By examining the top starting and ending locations of bike rides, we gain insights into why most trips are finished in 20 minutes. Top Starting Locations are clustered around Lower Manhattan, especially on weekdays, and most trips also end in Lower Manhattan. Bikes in certain locations are predominately used by non-subscribers, such as Central Park, and locations nearby the Hudson River.
 
-<img src ="IMAGES/Top_Starting_Locations.PNG"></img>
-<img src ="IMAGES/Top_Ending_Locations.PNG"></img>
+<img src ="images/Top_Starting_Locations.png"></img>
+<img src ="images/Top_Ending_Locations.png"></img>
 
 While subscribers contriubted to the majority of the of the trips, their trips are much shorter than trips taken by customers  (non-subscribers). On average, non-subscribers take trips lasting twice as long as subscribers. This suggests that there is an opportunity for price-discrimination where charges for non-subscribers are higher, and charges for subscribers are lower, to maximize profit from both types of users.
 
-<img src ="IMAGES/Avg_Trip_Duration_by_Day.PNG"></img>
+<img src ="images/Avg_Trip_Duration_by_Day.png"></img>
 
 Within the month of August, there were more than 2.3 million number of trips taken. Inevitably, bikes will require a high level of regular maintenance, where some bikes may be used more often than others. As shown below, most bikes were used very lightly (a few days). However, certain bikes were used significantly more than others. These bikes would need to be flagged for more maintenance.
 
-<img src ="IMAGES/Bike_Utilization.PNG"></img>
+<img src ="images/Bike_Utilization.png"></img>
 
 As presented in below heat map, bike usage is clustered around commuting hours in the morning and in the evening, with significant spike in usages on Thursdays. Weekend usage is more evenly spread from 10am to 7pm, with higher usage on Saturdays. Therefore, the best time for maintenance would be at night when demand is at its lowest, followed by 10am to 4pm on weekdays.
 
-<img src ="IMAGES/Trips_by_Weekday_per_Hour.PNG"></img>
+<img src ="images/Trips_by_Weekday_per_Hour.png"></img>
 
 
 ## Summary
